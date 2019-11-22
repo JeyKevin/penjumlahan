@@ -1,0 +1,24 @@
+body{
+background: linear-gradient(90deg, rgba(87,87,106,1) 0%, rgba(136,51,162,1) 100%);
+}
+
+h1{
+	color: #ffffff;
+}
+
+.tampilan {
+
+	width: 400px;
+	height: 150px;
+	background: ##cf78e9;
+	margin: 100px auto;
+	padding: 10px 10px 20px 40px;
+	border-radius: 30px;
+	box-shadow: 2px 2px 4px 4px #999;
+}
+
+hr{
+
+	width: 1100px;
+	border-top: 5px solid #999;
+}

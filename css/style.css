@@ -1,0 +1,64 @@
+body {
+	background: linear-gradient(90deg, rgba(87,87,106,1) 0%, rgba(136,51,162,1) 100%);}
+
+h2{
+	color: #D9DDE1;
+}
+
+hr{
+	width: 1100px;
+	border-top: 5px solid #999;
+}
+
+
+.jumbotron{
+background: linear-gradient(90deg, rgba(87,87,106,1) 0%, rgba(136,51,162,1) 100%);
+font-family : nunito sans;
+color: #ffffff;
+}
+
+
+
+.tampilan {
+
+	width: 400px;
+	height: 350px;
+	background: ##cf78e9;
+	margin: 100px auto;
+	padding: 10px 10px 20px 40px;
+	border-radius: 30px;
+	box-shadow: 2px 2px 4px 4px #999;
+
+}
+
+.input1 {
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.opt{
+	font-size: 16pt;
+	border: none;
+	width: 80px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.tombol {
+
+	background: #EC5159;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 10px ;
+	width: 300px;
+	color: #eee;
+	font-size: 15pt;
+	border-bottom: none;
+}
